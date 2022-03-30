@@ -2,10 +2,7 @@
 See how a ball is created on the screen and bounces from side to side while changing its speed.
 
 ## Usage
-Just open the program in your browser and entertain yourself by watching the ball bounce.
-
-## Support 
-You can tell people where to go for help regarding your project (example: email, Twitter, etc.). 
+Just open the index.html file in your browser and entertain yourself by watching the ball bounce.
 
 ## Roadmap
-This section could include any future fixes or improvements you might be planning for your project. 
+I have no plans to further develop this project.
